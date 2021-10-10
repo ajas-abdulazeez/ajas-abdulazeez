@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajas-abdulazeez)](https://github.com/anurag/github-readme-stats)
 
 <!--
 **ajas-abdulazeez/ajas-abdulazeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
